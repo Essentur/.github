@@ -36,18 +36,11 @@ Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Supabase, Chart.js, React 
 - Product Integration
 - Ongoing Support and Maintenance
 
-## 📫 Get in Touch
-
-- Website: [https://essentur.com](https://essentur.com)
-- Email: info@essentur.com
-- Location: Athens, Greece, Europe
-
 ## 🤝 Connect with Us
 
 - [LinkedIn](https://www.linkedin.com/company/essenturhq/)
 - [Twitter](https://x.com/EssenturHQ)
 - [Instagram](https://www.instagram.com/essenturhq/)
-
 
 ## 📚 Learn More
 
@@ -55,6 +48,12 @@ Interested in AI-first development and tech insights? Check out our newsletters:
 
 - [Value Frame](https://valueframe.substack.com) by Marios Vasilakis
 - [Built by Alex](https://alexkazos.substack.com) by Alex Kazos
+
+## 📫 Get in Touch
+
+- Website: [https://essentur.com](https://essentur.com)
+- Email: info@essentur.com
+- Location: Athens, Greece, Europe
 
 ---
 *Empowering businesses with AI-driven solutions.*
