@@ -1,27 +1,63 @@
-# Welcome to Essentur
+# Essentur
 
-**Essentur** is dedicated to building AI-first products for businesses, either from scratch or as SaaS solutions. We transform your ideas into working products in just 30 days!
+Welcome to Essentur's GitHub profile! We're an AI-first product studio specializing in turning ideas into working products in just 30 days. Our focus is on building AI-first, fast, and scalable solutions to help businesses grow affordably.
 
-## Our Mission
+## 🚀 Featured Projects
 
-We aim to revolutionize business operations by integrating AI-driven solutions that enhance efficiency and drive growth.
+### [AgeCheck Spotter](https://github.com/alex-kazos/age-check-spotter)
 
-## Services
+AgeCheck Spotter is an AI-driven age verification system that helps businesses automate compliance checks. It's fast, accurate, and works with existing setups.
 
-- **AI-First Operating Model**: Transform your business with AI-first strategies. [Learn more](https://www.essentur.com/offer/)
+Key Features:
+- 3s average verification time
+- 65% reduction in checkout time
+- Percentage-based verification for flexible decision-making
+- Human-centric automation
 
-- **Workflow Automation**: Simplify your operations with solutions designed to eliminate manual work and integrate seamlessly into your business. [Discover how](https://www.essentur.com/tag/operational-transformation/)
+Technologies: Computer Vision, Machine Learning, React, Node.js
 
-- **Data Engineering**: Turn data into decisions with our expert data engineering services.
+### [Essentur Website](https://github.com/Essentur/essentur)
 
-## Featured Product
+Our own website, showcasing our expertise in building modern web applications with cutting-edge technologies.
 
-**AgeCheck Spotter**: Our AI-powered app for age verification using facial recognition technology. [Read about its development](https://www.essentur.com/ai-facial-recognition-app/)
+Key Features:
+- 🎨 Modern UI with Tailwind CSS
+- 🔄 Drag and drop functionality using dnd-kit
+- 📱 Responsive design
+- ⚡ Fast development with Vite
+- 🎯 Type safety with TypeScript
 
-## Contact Us
+Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Supabase, Chart.js, React Router DOM, React Hook Form, Framer Motion, DND Kit
 
-Visit our website: [essentur.com](https://essentur.com/)
+## 🛠️ Our Services
+
+- Custom AI-First Product Development
+- MVP in 30 Days
+- Product Integration
+- Ongoing Support and Maintenance
+
+## 📫 Get in Touch
+
+- Website: [https://essentur.com](https://essentur.com)
+- Email: info@essentur.com
+- Location: Athens, Greece, Europe
+
+## 🤝 Connect with Us
+
+- [LinkedIn](https://www.linkedin.com/company/essenturhq/)
+- [Twitter](https://x.com/EssenturHQ)
+- [Instagram](https://www.instagram.com/essenturhq/)
+
+## 🌟 Join Our Team
+
+We're always looking for talented individuals to join our team. If you're passionate about AI and building innovative products, check out our [careers page](https://essentur.com/careers) for open positions.
+
+## 📚 Learn More
+
+Interested in AI-first development and tech insights? Check out our newsletters:
+
+- [Value Frame](https://valueframe.substack.com) by Marios Vasilakis
+- [Built by Alex](https://alexkazos.substack.com) by Alex Kazos
 
 ---
-
 *Empowering businesses with AI-driven solutions.*
