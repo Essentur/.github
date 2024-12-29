@@ -48,9 +48,6 @@ Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Supabase, Chart.js, React 
 - [Twitter](https://x.com/EssenturHQ)
 - [Instagram](https://www.instagram.com/essenturhq/)
 
-## 🌟 Join Our Team
-
-We're always looking for talented individuals to join our team. If you're passionate about AI and building innovative products, check out our [careers page](https://essentur.com/careers) for open positions.
 
 ## 📚 Learn More
 
